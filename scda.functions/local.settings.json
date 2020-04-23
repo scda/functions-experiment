@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "TODO_COSMOSDB_CONNECTIONSTRING": "<INSERT_CONNECTION_STRING>"
+  }
+}
